@@ -5,6 +5,12 @@
                                         
 %HVAC
 load('thermal.mat')
+duct_area1 = duct_area/5;
+duct_area2 = duct_area/2;
+cabin_volume1 = cabin_volume/5;
+heaterArea = duct_area/2;
+acArea = duct_area/2;
+xareaC = 1/5; 
 
 % Electrical System
 costPerKWH = 0.12;
