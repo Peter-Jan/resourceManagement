@@ -13,8 +13,6 @@ acArea = duct_area/2;
 xareaC = 1/5; 
 
 % Electrical System
-c = clock;
-costPerKWH = Price(c(4));
 costThresh = 10;
 
 
