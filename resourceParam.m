@@ -12,6 +12,8 @@ heaterArea = duct_area/2;
 acArea = duct_area/2;
 xareaC = 1/5; 
 
+costPerKWH = 0.12;
+
 % Electrical System
 costThresh = 10;
 
